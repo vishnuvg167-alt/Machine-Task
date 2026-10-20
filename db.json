@@ -11,9 +11,9 @@
       "price": 1000
     },
     {
-      "id": "3",
       "name": "Keyboard",
-      "price": 2000
+      "price": 2000,
+      "id": "3"
     },
     {
       "id": "4",
@@ -31,14 +31,9 @@
       "price": 4000
     },
     {
-      "name": "Ssd",
-      "price": 25000,
-      "id": "6YjeTotY0ek"
-    },
-    {
-      "name": "Mon",
-      "price": 5000,
-      "id": "RFuF3rUL_zQ"
+      "name": "SSd",
+      "price": 85000,
+      "id": "DEukwpa4PKY"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
